@@ -1,6 +1,6 @@
 # Duolingo Simplified to Traditional Chinese
 
-[Duolingo with Traditional Characters](https://i.imgur.com/YL8yQUI.jpg)
+![Duolingo with Traditional Characters](https://i.imgur.com/YL8yQUI.jpg)
 
 
 This extension allows users to read Chinese as it written in Taiwan and Hong Kong whilst learning Chinese in Duolingo. From an an etymological standpoint, many simplified characters no longer make sense and have crucial strokes removed from them.
